@@ -11,3 +11,6 @@ What Growth Mindset means to me : It is a fixed mindset. Growth mindset leads to
 -1. Learn from mistakes
 -2. Not comparing with others
 -3. Face obstacles
+
+Growth Mindset Image (https://cdn.shopify.com/s/files/1/2013/0229/products/growth-mindset-poster-kids_6b388bce-288b-4dd3-8327-200f0da12e0e.png?v=1572383529)
+
