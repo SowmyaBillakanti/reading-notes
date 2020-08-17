@@ -1,4 +1,4 @@
-# reading-notes
+# My Page
 Reading notes for code 102d18.
 
 ## About me
