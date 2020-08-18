@@ -29,3 +29,16 @@ Data is securely stored in a local database
 
 File has been changed but not committed to the database
 
+## Windows
+### Git Website
+
+You can download Git by visiting this link and following the posted directions:
+
+http://git-scm.com/download/win
+
+GitHub
+
+Install Git as part of the GitHub for Windows install.
+
+http://windows.github.com
+
