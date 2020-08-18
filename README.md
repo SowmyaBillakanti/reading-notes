@@ -19,6 +19,6 @@ What Growth Mindset means to me : Growth mindset leads to more productivity and 
 
 ## Table of contents
 * [Learning Markdown](LearningMarkdown.md)
-* [Coders Comouter](CodersComputer.md)
+* [Coders Computer](CodersComputer.md)
 * Git Intro
 
