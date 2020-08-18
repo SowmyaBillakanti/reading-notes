@@ -2,7 +2,7 @@
 Reading notes for code 102d18.
 
 ## About me
-*I am Sowmya. Excited to code*:) 
+*I am Sowmya. Excited to code*:) <br>
 **Here is my link**(https://sowmyabillakanti.github.io/reading-notes/)
 
 ### Growth Mindset
