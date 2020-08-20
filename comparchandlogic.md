@@ -8,7 +8,7 @@
 * Take input
 * Storage
 * Processing
-* Output the results
+* Output the result
 
 # Binary and Data
 *  Computer works on 1's and 0's
