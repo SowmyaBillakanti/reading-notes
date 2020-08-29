@@ -52,7 +52,7 @@ Some elements will always appear to continue on the same line as their neighbour
 ### IFRAME
 An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
-An iframe is created using the <iframe> element. There are a few attributes that you will need to know to use it:
+An iframe is created using the `<iframe>` element. There are a few attributes that you will need to know to use it:
 
 #### src
 The src attribute specifies the URL of the page to show in the frame.
@@ -69,27 +69,27 @@ How old browsers understand new elements
 Styling HTML5 layout elements with CSS
 
 ### HEADERS & FOOTERS
-<HEADER> <FOOTER>
-The <header> and <footer> elements can be used for:
+`<HEADER>` `<FOOTER>`
+The `<header>` and `<footer>` elements can be used for:
 
 The main header or footer that appears at the top or bottom of every page on the site.
-A header or footer for an individual <article> or <section> within the page.
+A header or footer for an individual `<article>` or `<section>` within the page.
 
 ### NAVIGATION
-The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+The `<nav>` element is used to contain the major navigational blocks on the site such as the primary site navigation.
 
 ### ARTICLES
-<ARTICLE>
-The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+`<ARTICLE>`
+The `<article>` element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
 ### ASIDES
-The <aside> element has two purposes, depending on whether it is inside an <article> element or not.
+The `<aside>` element has two purposes, depending on whether it is inside an `<article>` element or not.
 
 ### SECTIONS
-The <section> element groups related content together, and typically each section would have its own heading.
+The `<section>` element groups related content together, and typically each section would have its own heading.
 
 ### HEADING GROUPS
-The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
+The purpose of the `<hgroup>` element is to group together a set of one or more `<h1>` through `<h6>` elements so that they are treated as one single heading.
 
 ## PROCESS & DESIGN
 How to approach building a site
@@ -310,9 +310,9 @@ var drawWinston = function() { }
 Define a new function
 var array = [0, 1, 2, 3, 4]
 Make an array of 5 numbers
-if (x < 20) { }
+if (x `< 20) { }
 Only run code if a certain condition is true
-for (var i = 0; i < 8; i++) { }
+for (var i = 0; i `< 8; i++) { }
 Repeat code a fixed number of times
-while (x < 250) { }
+while (x `< 250) { }
 Only run code while a certain condition is true
