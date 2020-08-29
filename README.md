@@ -15,3 +15,4 @@ Reading notes for code 102d18.
 * [Coders Computer](CodersComputer.md)
 * [Git Intro](GitIntro.md)
 * [Design Webpages with CSS](designwebpageswithcss.md)
+* [ Class 01 Intro to HTML and JS](class-01.md)
