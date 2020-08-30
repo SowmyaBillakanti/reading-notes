@@ -1,14 +1,35 @@
-# My Page
+# Code 201 Reading Notes
 
-Reading notes for code 102d18.
+Reading notes for code 201d67.
+
 
 ## About me
 
 *I am Sowmya. Excited to code*:) <br>
 **Here is the link** to my [profile](https://sowmyabillakanti.github.io/reading-notes/).
 
-## Table of contents
+## Table of contents for 201d67
+* Read 01
+* Read 02
+* Read 03
+* Read 04
+* Read 05
+* Read 06
+* Read 07
+* Read 08
+* Read 09
+* Read 10
+* Read 11
+* Read 12
+* Read 13
+* Read 14
+* Read 15
 
+# Code 102 Reading Notes
+
+Reading notes for code 102d18.
+
+## Table of contents for 102d18
 * [Growth Mindset](GrowthMindset.md)
 * [Growth Minset Reminders](GrowthMindsetReminders.md)
 * [Learning Markdown](LearningMarkdown.md)
