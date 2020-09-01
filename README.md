@@ -9,7 +9,7 @@ Reading notes for code 201d67.
 **Here is the link** to my [profile](https://sowmyabillakanti.github.io/reading-notes/).
 
 ## Table of contents for 201d67
-* Read 01
+* [Class01-Index.html](201/class01-index.html)
 * Read 02
 * Read 03
 * Read 04
