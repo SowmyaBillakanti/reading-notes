@@ -10,7 +10,7 @@ Reading notes for code 201d67.
 
 ## Table of contents for 201d67
 * [Class01-Index.html](201/class01-index.html)
-* Read 02
+* [Class02-read03.md](201/read03.md)
 * Read 03
 * Read 04
 * Read 05
