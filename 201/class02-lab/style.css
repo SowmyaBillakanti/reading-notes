@@ -18,6 +18,8 @@ main {
     height: 130%;
     border-style: ridge;
     background-color: bisque;
+    color: cadetblue;
+    font-style: initial;
   }
 
   footer {
@@ -25,4 +27,5 @@ main {
     border-style: solid;
     text-align: center;
     background-color: lightcyan;
+    color: teal;
   }
