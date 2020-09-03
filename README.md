@@ -11,7 +11,7 @@ Reading notes for code 201d67.
 ## Table of contents for 201d67
 * [Class01-Index.html](201/class01-index.html)
 * [Class02-read03.md](201/read03.md)
-* Read 03
+* [Class03-read04.md](201/read04.md)
 * Read 04
 * Read 05
 * Read 06
