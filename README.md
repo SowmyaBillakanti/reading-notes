@@ -13,7 +13,7 @@ Reading notes for code 201d67.
 * [Class02-read03.md](201/read03.md)
 * [Class03-read04.md](201/read04.md)
 * [Class04-read05.md](201/read05.md)
-* Read 05
+* [Class06-read06.md](201/read06.md)
 * Read 06
 * Read 07
 * Read 08
