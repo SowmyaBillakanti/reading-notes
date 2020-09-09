@@ -87,7 +87,7 @@ CSS frameworks aim to make your life easier by providing the code for common tas
 * In order to satisfy a wide variety of needs, they often contain more code than you need for your particular web page (commonly referred to as code “bloat”).
 
 ### SUMMARY LAYOUT
-* <div> elements are often used as containing elements to group together sections of a page.
+* `<div>` elements are often used as containing elements to group together sections of a page.
 * Browsers display pages in normal flow unless you specify relative, absolute, or fixed positioning.
 * The float property moves content to the left or right of the page and can be used to create multi-column layouts. (Floated items require a defined width.)
 * Pages can be fixed width or liquid (stretchy) layouts.
