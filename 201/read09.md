@@ -16,11 +16,11 @@ There are several types of form controls that you can use to collect information
 * UPLOADING FILES:File upload
 
 ## FORM STRUCTURE
-#### <FORM>
-Form controls live inside <form> a element. This element should always carry the action attribute and will usually have a and id attribute too.
+#### `<FORM>`
+Form controls live inside `<form>` a element. This element should always carry the action attribute and will usually have a and id attribute too.
 
 #### action
-Every <form> element requires an action attribute. Its value is the URL for the page on the server that will receive the information in the form when it is submitted.
+Every `<form>` element requires an action attribute. Its value is the URL for the page on the server that will receive the information in the form when it is submitted.
 
 #### method
 Forms can be sent using one of two methods: get or post.
@@ -32,25 +32,25 @@ when you are just retrieving data from the web server (not sending information t
 
 ### TEXT INPUT
 * SIZE
-* <INPUT>
+* `<INPUT>`
 * TYPE=“TEXT”
 * name
 * maxlength
 
 ### PASSWORD INPUT
-* <INPUT> - type=“password”
+* `<INPUT>` - type=“password”
 * name
 * size, maxlength
 
 ### RADIO BUTTON
-* <INPUT> - type=“radio” 
+* `<INPUT>` - type=“radio” 
 * name
 * value
 * checked
 
 ## SUMMARY
 #### FORMS
-* Whenever you want to collect information from visitors you will need a form, which lives inside a <form> element.
+* Whenever you want to collect information from visitors you will need a form, which lives inside a `<form>` element.
 * Information from a form is sent in name/value pairs.
 * Each form control is given a name, and the text the user types in or the values of the options they select are sent to the server.
 * HTML5 introduces new form elements which make it easier for visitors to fill in forms.
@@ -234,9 +234,9 @@ The flow of events only really matters when your code has event handlers on an e
 
 The example below has event listeners that respond to the click event on each of the following elements:
 
-* One on the <ul> element
-* One on the <li> element
-* One on the <a> element in the list item
+* One on the `<ul>` element
+* One on the `<li>` element
+* One on the `<a>` element in the list item
 
 ## THE EVENT OBJECT
 When an event occurs, the event object tells you information about the event, and the element it happened upon.
