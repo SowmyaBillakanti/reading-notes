@@ -15,7 +15,7 @@ Reading notes for code 201d67.
 * [Class04-read05.md](201/read05.md)
 * [Class06-read06.md](201/read06.md)
 * [Class07-read07.md](201/read07.md)
-* Read 07
+* [CSSLayout-read08.md](201/read08.md)
 * Read 08
 * Read 09
 * Read 10

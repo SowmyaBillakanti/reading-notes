@@ -177,6 +177,108 @@ This helpful extension for Firefox and Chrome provides tools to show you the CSS
 * Forms benefit from styles that make them feel more interactive.
 
 # EVENTS
+When you browse the web, your browser registers different types of events. It's the browser's way of saying, “Hey, this just happened.” Your script can then respond to these events.
+ 
+## INTERACTIONS CREATE EVENTS
+Events occur when users click or tap on a link, hover or swipe over an element, type on the keyboard, resize the window, or when the page they requested has loaded.
+
+## EVENTS TRIGGER CODE
+When an event occurs, or fires, it can be used to trigger a particular function. Different code can be triggered when users interact with different parts of the page.
+
+## CODE RESPONDS TO USERS
+In the last chapter, you saw how the DOM can be used to update a page. The events can trigger the kinds of changes the DOM is capable of. This is how a web page reacts to users.
+
+## DIFFERENT EVENT TYPES
+### UI EVENTS
+* load
+* unload
+* error
+* resize
+* scroll
+
+### KEYBOARD EVENTS
+* keydown
+* keyup
+* keypress
+
+### MOUSE EVENTS
+* click
+* dblclick
+* mousedown
+* mouseup
+* mousemove
+* mouseover
+* mouseout
+
+## HOW EVENTS TRIGGER JAVASCRIPT CODE
+When the user interacts with the HTML on a web page, there are three steps involved in getting it to trigger some JavaScript code. Together these steps are known as event handling.
+
+* Select the element node(s) you want the script to respond to.
+* Indicate which event on the selected node(s) will trigger the response.
+* State the code you want to run when the event occurs.
+
+## THREE WAYS TO BIND AN EVENT TO AN ELEMENT
+Event handlers let you indicate which event you are waiting for on any particular element. There are three types of event handlers.
+
+* HTML EVENT HANDLERS
+* TRADITIONAL DOM EVENT HANDLERS
+* DOM LEVEL 2 EVENT LISTENERS
+
+## EVENT FLOW
+HTML elements nest inside other elements. If you hover or click on a link, you will also be hovering or clicking on its parent elements.
+* Event bubbling
+* Event Capturing
+
+## WHY FLOW MATTERS
+The flow of events only really matters when your code has event handlers on an element and one of its ancestor or descendant elements.
+
+The example below has event listeners that respond to the click event on each of the following elements:
+
+* One on the <ul> element
+* One on the <li> element
+* One on the <a> element in the list item
+
+## THE EVENT OBJECT
+When an event occurs, the event object tells you information about the event, and the element it happened upon.
+
+Every time an event fires, the event object contains helpful data about the event, such as:
+
+* Which element the event happened on
+* Which key was pressed for a keypress event
+* What part of the viewport the user clicked for a click event (the viewport is the part of the browser window that shows the web page)
+
+## EVENT DELEGATION
+Creating event listeners for a lot of elements can slow down a page, but event flow allows you to listen for an event on a parent element.
+
+If users can interact with a lot of elements on the page, such as:
+
+* a lot of buttons in the UI
+* a long list
+* every cell of a table
+
+## ADDITIONAL BENEFITS OF EVENT DELEGATION
+* WORKS WITH NEW ELEMENTS
+* SOLVES LIMITATIONS WITH this KEYWORD
+* SIMPLIFIES YOUR CODE
+
+## DIFFERENT TYPES OF EVENTS
+In the rest of the chapter, you learn about the different types of events you can respond to.
+
+Events are defined in:
+
+* The W3C DOM specification
+* The HTML5 specification
+* In Browser Object Models
+
+## SUMMARY
+#### EVENTS
+
+* Events are the browser's way of indicating when something has happened (such as when a page has finished loading or a button has been clicked).
+* Binding is the process of stating which event you are waiting to happen, and which element you are waiting for that event to happen upon.
+* When an event occurs on an element, it can trigger a JavaScript function. When this function then changes the web page in some way, it feels interactive because it has responded to the user.
+* You can use event delegation to monitor for events that happen on all of the children of an element.
+* The most commonly used events are W3C DOM events, although there are others in the HTML5 specification as well as browser-specific events.
+
 
 
 
