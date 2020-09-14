@@ -15,10 +15,10 @@ Reading notes for code 201d67.
 * [Class04-read05.md](201/read05.md)
 * [Class06-read06.md](201/read06.md)
 * [Class07-read07.md](201/read07.md)
-* [CSSLayout-read08.md](201/read08.md)
-* Read 08
-* Read 09
-* Read 10
+* [Class07-read08.md](201/read08.md)
+* [Class08-read09.md](201/read09.md)
+* [Class09-read10.md](201/read10.md)
+* [read11.md](201/read11.md)
 * Read 11
 * Read 12
 * Read 13
