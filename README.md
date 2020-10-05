@@ -12,7 +12,7 @@ Reading notes for code 201d67.
 **Here is the link** to my [profile](https://sowmyabillakanti.github.io/reading-notes/).
 
 ## Table of contents for 301d67
-* Read 1
+* [Read01-SMACSS.md](301/read01-smacss.md)
 * Read 2
 * Read 3
 * Read 4
