@@ -13,7 +13,7 @@ Reading notes for code 201d67.
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
-* Read 2
+* [read02-jquery.md](301/read02-jquery.md)
 * Read 3
 * Read 4
 * Read 5
