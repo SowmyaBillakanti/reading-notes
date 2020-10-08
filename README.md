@@ -15,7 +15,7 @@ Reading notes for code 201d67.
 * [Read01-SMACSS.md](301/read01-smacss.md)
 * [read02-jquery.md](301/read02-jquery.md)
 * [read03-flexbox.md](301/read03-flexbox.md)
-* Read 4
+* [read04-rwd.md](301/read04-rwd.md)
 * Read 5
 * Read 6
 * Read 7
