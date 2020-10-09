@@ -16,7 +16,7 @@ Reading notes for code 201d67.
 * [read02-jquery.md](301/read02-jquery.md)
 * [read03-flexbox.md](301/read03-flexbox.md)
 * [read04-rwd.md](301/read04-rwd.md)
-* Read 5
+* [read05-herokudeployment.md](301/read05-herokudeployment.md)
 * Read 6
 * Read 7
 * Read 8
