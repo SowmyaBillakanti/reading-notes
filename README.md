@@ -17,7 +17,7 @@ Reading notes for code 201d67.
 * [read03-flexbox.md](301/read03-flexbox.md)
 * [read04-rwd.md](301/read04-rwd.md)
 * [read05-herokudeployment.md](301/read05-herokudeployment.md)
-* Read 6
+* [read06-nodejs.md](301/read06-nodejs.md)
 * Read 7
 * Read 8
 * Read 9
