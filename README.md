@@ -18,7 +18,7 @@ Reading notes for code 201d67.
 * [read04-rwd.md](301/read04-rwd.md)
 * [read05-herokudeployment.md](301/read05-herokudeployment.md)
 * [read06-nodejs.md](301/read06-nodejs.md)
-* Read 7
+* [read07-api's.md](301/read07-api's.md)
 * Read 8
 * Read 9
 * Read 10
