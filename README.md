@@ -20,7 +20,7 @@ Reading notes for code 201d67.
 * [read06-nodejs.md](301/read06-nodejs.md)
 * [read07-api's.md](301/read07-api's.md)
 * [read08-sql.md](301/read08-sql.md)
-* Read 9
+* [read09-refactoring.md](301/read09-refactoring.md)
 * Read 10
 * Read 11
 * Read 12
