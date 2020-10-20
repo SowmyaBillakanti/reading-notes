@@ -21,7 +21,7 @@ Partials come in handy when you want to reuse the same HTML across multiple view
     <footer class="footer">
         <p>© 90210 Lawyer Stuff.</p>
     </footer>
- ```
+```
  
 ## Include the navbar and footer partial just created:
 
