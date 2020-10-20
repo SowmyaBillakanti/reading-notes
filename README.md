@@ -23,7 +23,7 @@ Reading notes for code 201d67.
 * [read09-refactoring.md](301/read09-refactoring.md)
 * [read10-callstack.md](301/read10-callstack.md)
 * [read11-ejs.md](301/read11-ejs.md)
-* Read 12
+* [read12-partials.md](301/read12-partials.md)
 * Read 13
 * Read 14
 
