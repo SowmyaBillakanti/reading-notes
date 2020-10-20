@@ -24,6 +24,7 @@ Partials come in handy when you want to reuse the same HTML across multiple view
  ```
  
 ## Include the navbar and footer partial just created:
+
 ```
 <!-- views/home.ejs -->
     <!DOCTYPE html>
@@ -61,4 +62,4 @@ Partials come in handy when you want to reuse the same HTML across multiple view
         </div>
     </body>
     </html>
-    ```
+```
