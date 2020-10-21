@@ -24,7 +24,7 @@ Reading notes for code 201d67.
 * [read10-callstack.md](301/read10-callstack.md)
 * [read11-ejs.md](301/read11-ejs.md)
 * [read12-partials.md](301/read12-partials.md)
-* Read 13
+* [read13-updatedelete.md](301/read13-updatedelete.md)
 * Read 14
 
 
