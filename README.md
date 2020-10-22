@@ -25,7 +25,7 @@ Reading notes for code 201d67.
 * [read11-ejs.md](301/read11-ejs.md)
 * [read12-partials.md](301/read12-partials.md)
 * [read13-updatedelete.md](301/read13-updatedelete.md)
-* Read 14
+* [read14-dbnormalization.md](301/read14-dbnormalization.md)
 
 
 ## Table of contents for 201d67
