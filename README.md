@@ -26,6 +26,7 @@ Reading notes for code 201d67.
 * [read12-partials.md](301/read12-partials.md)
 * [read13-updatedelete.md](301/read13-updatedelete.md)
 * [read14-dbnormalization.md](301/read14-dbnormalization.md)
+* [read15-diversity.md](301/read15-diversity.md)
 
 
 ## Table of contents for 201d67
