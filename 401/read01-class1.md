@@ -6,6 +6,7 @@
 
 ### Superagent()
 * Using Standard Promise `.then` syntax:
+
 ```
 function getCharacters() {
   superagent.get('https://swapi.dev/api/people/')
@@ -25,6 +26,7 @@ getCharacters();
 
 
 * Using asynce/await
+
 ```
 async function findCity(cityName) {
   try {
