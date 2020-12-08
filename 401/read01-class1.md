@@ -23,6 +23,7 @@ function getCharacters() {
 getCharacters();
 ```
 
+
 * Using asynce/await
 ```
 async function findCity(cityName) {
