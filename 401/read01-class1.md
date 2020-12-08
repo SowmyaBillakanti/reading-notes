@@ -6,8 +6,7 @@
 
 ### Superagent()
 * Using Standard Promise `.then` syntax:
-```
-function getCharacters() {
+```function getCharacters() {
   superagent.get('https://swapi.dev/api/people/')
   .then(charactersData => {
     for(let i = 0; i < charactersData.body.results.length; i++){
@@ -20,13 +19,12 @@ function getCharacters() {
   })
 }
 
-getCharacters();
-```
+getCharacters();```
 
 
 * Using asynce/await
-```
-async function findCity(cityName) {
+
+```async function findCity(cityName) {
   try {
     let results = await superagent.get("https://geocode.xyz/" + cityName + "?json=1&auth=789302545052785643492x123031");
     console.log(cityName + " Longitude: " + results.body.longt);
@@ -38,8 +36,7 @@ async function findCity(cityName) {
 
 findCity("seattle");
 findCity("Portland");
-findCity("NewYork");
-```
+findCity("NewYork");```
 
 ### Promise
 The Promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value.
