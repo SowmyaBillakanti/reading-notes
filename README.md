@@ -12,10 +12,11 @@ Reading notes for code 201d67.
 **Here is the link** to my [profile](https://sowmyabillakanti.github.io/reading-notes/).
 
 ## Table of contents for 401d67
-*[preworkread1.md](401/preworkread1.md)
-*[preworkread2.md](401/preworkread2.md)
-*[preworkread3.md](401/preworkread3.md)
-*[preworkread4.md](401/preworkread4.md)
+* [preworkread1.md](401/preworkread1.md)
+* [preworkread2.md](401/preworkread2.md)
+* [preworkread3.md](401/preworkread3.md)
+* [preworkread4.md](401/preworkread4.md)
+* [Read01-class1.md](401/read01-class1.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
