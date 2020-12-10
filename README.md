@@ -18,6 +18,8 @@ Reading notes for code 201d67.
 * [preworkread4.md](401/preworkread4.md)
 * [Read01-class1.md](401/read01-class1.md)
 * [Read02-class02.md](401/read02-class02.md)
+* [Read03-class03.md](401/read03-class03.md)
+* [Read04-class-04.md](401/read04-class-04.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
