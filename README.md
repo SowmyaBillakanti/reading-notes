@@ -21,7 +21,7 @@ Reading notes for code 201d67.
 * [Read03-class03.md](401/read03-class03.md)
 * [Read04-class-04.md](401/read04-class-04.md)
 * [Read05-class05.md](401/read05-class05.md)
-
+* [Read06-class06.md](401/read06-class06.md)
 
 
 
