@@ -23,7 +23,7 @@ Reading notes for code 201d67.
 * [Read05-class05.md](401/read05-class05.md)
 * [Read06-class06.md](401/read06-class06.md)
 * [Read07-class07.md](401/read07-class07.md)
-
+* [Read08-class08.md](401/read08-class08.md)
 
 
 ## Table of contents for 301d67
