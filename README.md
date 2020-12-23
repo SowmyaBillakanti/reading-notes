@@ -27,6 +27,7 @@ Reading notes for code 201d67.
 * [Read09-class09.md](401/read09-class09.md)
 * [Read11-class11.md](401/read11-class11.md)
 * [Read12-class12.md](401/read12-class12.md)
+* [Read13-class13.md](401/read13-class13.md)
 
 
 ## Table of contents for 301d67
