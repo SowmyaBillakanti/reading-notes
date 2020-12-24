@@ -28,7 +28,8 @@ Reading notes for code 201d67.
 * [Read11-class11.md](401/read11-class11.md)
 * [Read12-class12.md](401/read12-class12.md)
 * [Read13-class13.md](401/read13-class13.md)
-
+* [Read14-class14.md](401/read14-class14.md)
+* [Read15-class15.md](401/read15-class15.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
