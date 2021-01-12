@@ -33,6 +33,8 @@ Reading notes for code 201d67.
 * [Read16-class16.md](401/read16-class16.md)
 * [Read17-class17.md](401/read17-class17.md)
 * [Read18-class18.md](401/read18-class18.md)
+* [Read26-Component-Based-UI.md](401/read26-Component-Based-UI.md)
+* [Read27-Props-and-State.md](401/read27-Props-and-State.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
