@@ -37,6 +37,7 @@ Reading notes for code 201d67.
 * [Read27-Props-and-State.md](401/read27-Props-and-State.md)
 * [Read28-Component-composition.md](401/read28-Component-composition.md)
 * [Read29-Routing.md](401/read29-Routing.md)
+* [Read-HashTables.md](401/hashTables.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
