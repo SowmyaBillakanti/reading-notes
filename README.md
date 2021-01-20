@@ -39,6 +39,7 @@ Reading notes for code 201d67.
 * [Read29-Routing.md](401/read29-Routing.md)
 * [Read-HashTables.md](401/hashTables.md)
 * [Read31-HooksAPI.md](401/read31-HooksAPI.md)
+* [Read32-Custom-Hooks.md](401/read32-Custom-Hooks.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
