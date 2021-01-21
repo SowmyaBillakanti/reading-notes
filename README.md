@@ -42,6 +42,7 @@ Reading notes for code 201d67.
 * [Read32-Custom-Hooks.md](401/read32-Custom-Hooks.md)
 * [Read33-Context-API.md](401/read33-Context-API.md)
 * [Read34-LoginAndAuth.md](401/read34-LoginAndAuth.md)
+* [Read35-Graphs.md](401/read35-Graphs.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
