@@ -43,6 +43,9 @@ Reading notes for code 201d67.
 * [Read33-Context-API.md](401/read33-Context-API.md)
 * [Read34-LoginAndAuth.md](401/read34-LoginAndAuth.md)
 * [Read35-Graphs.md](401/read35-Graphs.md)
+* [read36-Application-State-with-Redux.md](401/read36-Application-State-with-Redux.md)
+* [read37-Redux-Combined-Reducers.md](401/read37-Redux-Combined-Reducers.md)
+* [read38-Redux-AsynchronousActions.md](401/read38-Redux-AsynchronousActions.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
