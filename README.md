@@ -46,6 +46,7 @@ Reading notes for code 201d67.
 * [read36-Application-State-with-Redux.md](401/read36-Application-State-with-Redux.md)
 * [read37-Redux-Combined-Reducers.md](401/read37-Redux-Combined-Reducers.md)
 * [read38-Redux-AsynchronousActions.md](401/read38-Redux-AsynchronousActions.md)
+* [read39-Redux-AdditionalTopics.md](401/read39-Redux-AdditionalTopics.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
