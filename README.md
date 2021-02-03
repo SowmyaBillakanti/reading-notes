@@ -49,6 +49,7 @@ Reading notes for code 201d67.
 * [read39-Redux-AdditionalTopics.md](401/read39-Redux-AdditionalTopics.md)
 * [read41-ReactNative.md](401/read41-ReactNative.md)
 * [read42-EthicsInTech.md](401/read42-EthicsInTech.md)
+* [read43-Gatsby,nextjs.md](401/read43-Gatsby,nextjs.md)
 
 ## Table of contents for 301d67
 * [Read01-SMACSS.md](301/read01-smacss.md)
